@@ -1,4 +1,4 @@
-## PixiJS v5. Facebook Instant Game
+## PixiJS v5. Facebook Instant Game with PixiJS
 
 Quick way to correctly set up a Facebook Instant game with PixiJS
 
