@@ -5,7 +5,7 @@
     "start": "webpack-dev-server --config webpack.config.dev.js"
   },
   "author": "anvoevodin",
-  "repository": "https://github.com/ANVoevodin/pixijs_v5_flexible_buttons",
+  "repository": "https://github.com/ANVoevodin/pixijs_v5_fbinstant",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.5",
@@ -21,11 +21,10 @@
   "dependencies": {
     "@pixi/app": "^5.0.4",
     "@pixi/core": "^5.0.4",
-    "@pixi/interaction": "^5.1.1",
     "@pixi/loaders": "^5.0.4",
-    "@pixi/mesh": "^5.1.0",
-    "@pixi/mesh-extras": "^5.1.0",
-    "@pixi/text": "^5.1.1",
-    "@pixi/ticker": "^5.0.4"
+    "@pixi/sprite": "^5.0.4",
+    "@pixi/sprite-tiling": "^5.0.4",
+    "@pixi/ticker": "^5.0.4",
+    "animejs": "^3.0.1"
   }
 }
